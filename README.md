@@ -30,3 +30,13 @@
 
 
 * [Short Story](https://github.com/shreyaghotankar/CMPE-255-Data-Mining/tree/master/Short%20Story)
+
+* [Assignment 5](https://colab.research.google.com/drive/1xrd5nlcWk-t4sfYHuBsGzMGY_ButKso2?usp=sharing) - Gradient Boost Methods
+  * Dataset for Classifier Techniques - [Amazon Kindle Book Review dataset from Kaggle](https://www.kaggle.com/meetnagadia/amazon-kindle-book-review-for-sentiment-analysis)
+  * Dataset for Regressor Techniques - [Loan Amount Prediction dataset from Kaggle](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset)
+  * Dataset for Ranking Techniques -
+     * For XGBRanker and LGMRanker - [Microsoft LETOR ranking dataset](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/letor-4-0/)
+     * For CatBoostRanker - [MSLR dataset](https://www.microsoft.com/en-us/research/project/mslr/)
+
+* [Assignment 6]() - 
+  * Dataset 
