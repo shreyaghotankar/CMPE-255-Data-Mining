@@ -38,5 +38,8 @@
      * For XGBRanker and LGMRanker - [Microsoft LETOR ranking dataset](https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/letor-4-0/)
      * For CatBoostRanker - [MSLR dataset](https://www.microsoft.com/en-us/research/project/mslr/)
 
-* [Assignment 6]() - 
-  * Dataset 
+* [Assignment 6](https://colab.research.google.com/drive/1Vl_474jwVVR0ydraJ_K6Ru0NLctkF6Q7?usp=sharing) - Frequent Pattern Mining Apriori and fpgrowth
+  * Dataset for apyori and pyfpgrowth - [e-commerce dataset](https://www.kaggle.com/carrie1/ecommerce-data)
+  * Dataset for mlxtend - [Groceries](https://www.kaggle.com/heeraldedhia/groceries-dataset)
+
+
